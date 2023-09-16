@@ -65,7 +65,7 @@ body {
 @media (max-width: 375px) {
   body {
     max-width: 375px;
-    overflow: auto;
+    overflow: scroll;
     /* margin: 0; */
   }
 }

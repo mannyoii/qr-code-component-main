@@ -18,8 +18,8 @@ body {
 }
 
 .card {
-  width: 320px;
-  height: 500px;
+  width: 350px;
+  height: 550px;
   background-color: hsl(0, 0%, 100%);
   border: none;
   border-radius: 12px;
@@ -43,7 +43,7 @@ body {
 }
 
 .card h3 {
-  /* width: 300px; */
+  /* width: 270px; */
   font-family: inherit;
   text-align: center;
   margin: 0 20px 20px;
@@ -55,7 +55,7 @@ body {
 }
 
 .card p {
-  /* width: 300px; */
+  /* width: 270px; */
   font-size: 15px;
   font-weight: 400;
   font-family: inherit;

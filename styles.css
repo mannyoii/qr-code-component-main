@@ -18,7 +18,7 @@ body {
 }
 
 .card {
-  width: 350px;
+  width: 320px;
   height: 500px;
   background-color: hsl(0, 0%, 100%);
   border: none;
@@ -43,15 +43,19 @@ body {
 }
 
 .card h3 {
+  /* width: 300px; */
   font-family: inherit;
   text-align: center;
   margin: 0 20px 20px;
+  /* margin: 0 auto 20px; */
   font-size: 24px;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
+  /* padding: 0 10px; */
 }
 
 .card p {
+  /* width: 300px; */
   font-size: 15px;
   font-weight: 400;
   font-family: inherit;
@@ -60,6 +64,8 @@ body {
   color: hsl(220, 15%, 55%);
   /* line-height: ; */
   letter-spacing: 1.2px;
+  /* margin: 0 auto 50px; */
+  /* padding: 0 10px; */
 }
 
 @media (max-width: 375px) {
